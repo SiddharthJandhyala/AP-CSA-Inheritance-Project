@@ -1,0 +1,2 @@
+This is the repository for the the Inheritance Project for Mr. Thai's 6th period AP CSA class. 
+This is a boss rush/turn based combat style game.
