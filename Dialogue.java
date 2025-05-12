@@ -1,4 +1,4 @@
-class Dialogue {
+public class Dialogue {
     private String color;
     private String dialogue;
     private int speed;
